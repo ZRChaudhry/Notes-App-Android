@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Notes</string>
+    <string name="about">about</string>
+    <string name="new_note">new_note</string>
+    <string name="string_new_note" />
+    <string name="note">Note</string>
+    <string name="version_1_0">Version 1.0</string>
+    <string name="android_notes">Android Notes</string>
+    <string name="_2021_zair_chaudhry">© 2021, Zair Chaudhry</string>
+    <string name="save">save</string>
+    <string name="title">Title</string>
+    <string name="note_here">Note Here…</string>
+    <string name="file_name">Product.json</string>
+    <string name="no_file">No JSON Product File Present</string>
+
+
+
+
+</resources>
